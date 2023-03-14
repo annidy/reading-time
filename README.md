@@ -18,7 +18,6 @@ let package = Package(
 
 Then it's ready to be imported and used like so:
 
-
 ```swift
 import ReadingTime
 ```
